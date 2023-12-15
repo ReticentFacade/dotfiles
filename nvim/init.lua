@@ -1,0 +1,2 @@
+require("reticent")
+print("Helleeeowwww")
